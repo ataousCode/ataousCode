@@ -74,15 +74,6 @@ Here are some of the technologies and tools I work with:
 ### 📈 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=almousleck&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=almousleck&layout=compact&theme=radical)  
-
----
-
-### 🌟 Featured Projects  
-Here are some of the projects I’ve worked on:  
-- **[Project Name 1](https://github.com/almousleck/project1)** - A brief description of the project.  
-- **[Project Name 2](https://github.com/almousleck/project2)** - A brief description of the project.  
-- **[Project Name 3](https://github.com/almousleck/project3)** - A brief description of the project.  
-
 ---
 
 Let’s build something amazing together! 🚀  
