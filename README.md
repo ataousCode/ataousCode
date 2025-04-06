@@ -29,7 +29,7 @@ I’m a passionate **Software Engineer** with a love for building scalable, effi
 Let’s connect and build something amazing together! You can reach me via:  
 - **Email**: [tadalatestudio@gmail.com](mailto:tadalatestudio@gmail.com)  
 - **LinkedIn**: [Almousleck Atalib Ag](https://www.linkedin.com/in/almousleck-atalib-ag-893455312)
-- **Website: [TadalateStudio](https://tadalatestudio.com/)
+- Website: [TadalateStudio](https://tadalatestudio.com/)
 
 ---
 
