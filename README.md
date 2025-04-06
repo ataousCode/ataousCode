@@ -27,18 +27,14 @@ I’m a passionate **Software Engineer** with a love for building scalable, effi
 
 ### 📫 How to reach me ...  
 Let’s connect and build something amazing together! You can reach me via:  
-- **Email**: [almouslecka@gmail.com](mailto:almouslecka@gmail.com)  
-- **LinkedIn**: [Almousleck Atalib Ag](https://www.linkedin.com/in/almousleck-atalib-ag-893455312)  
-
----
-
-### 😄 Pronouns: ...  
-He/Him  
+- **Email**: [tadalatestudio@gmail.com](mailto:tadalatestudio@gmail.com)  
+- **LinkedIn**: [Almousleck Atalib Ag](https://www.linkedin.com/in/almousleck-atalib-ag-893455312)
+- **Website: [TadalateStudio](https://tadalatestudio.com/)
 
 ---
 
 ### ⚡ Fun fact: ...  
-When I’m not coding, I enjoy [your hobby, e.g., hiking, gaming, photography, etc.]. Did you know? [Insert a fun fact about yourself, e.g., "I once built a fully functional app in just 48 hours during a hackathon!"]  
+When I’m not coding, I enjoy watching TV, play basketball.  
 
 ---
 
